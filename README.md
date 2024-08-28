@@ -1,4 +1,4 @@
-# group-handbook-template
+# Scott Lab Handbook Workshop Aug 28th
 
 <!-- badges: start -->
 
